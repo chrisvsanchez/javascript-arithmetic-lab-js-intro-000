@@ -14,8 +14,8 @@ function increment(n){
   return n++;
 }
 
-funciton decrement(n){
-  return ;
+function decrement(n){
+  return n--;
 }
 
 function makeInt(n){
