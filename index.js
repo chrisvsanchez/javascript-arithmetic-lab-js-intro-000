@@ -1,6 +1,6 @@
 function add(){
   
 }
-subtract=>{
+const = subtract =>{
   
 }
