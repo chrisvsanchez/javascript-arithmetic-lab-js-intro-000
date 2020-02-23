@@ -13,3 +13,9 @@ function divide(a,b){
 function increment(n){
   return n++;
 }
+funciton decrement(n){
+  return n--;
+}
+function makeInt(n){
+  return parseInt(n);
+}
